@@ -1,7 +1,7 @@
 aid: alexion-pharmaceuticals
 url: >-
   https://raw.githubusercontent.com/api-evangelist/alexion-pharmaceuticals/refs/heads/main/apis.yml
-modified: '2026-04-19'
+modified: '2026-06-20'
 description: >-
   Alexion Pharmaceuticals was a global biopharmaceutical company headquartered
   in Boston, Massachusetts, focused on developing life-transforming therapies
@@ -23,6 +23,10 @@ common:
     url: https://www.astrazeneca.com/our-therapy-areas/rare-disease.html
   - type: GitHub
     url: https://github.com/alxndgb
+  - type: WellKnown
+    url: well-known/alexion-pharmaceuticals-well-known.yml
+  - type: LLMsTxt
+    url: llms/alexion-pharmaceuticals-llms.txt
 tags:
   - Pharmaceuticals
   - Rare Disease

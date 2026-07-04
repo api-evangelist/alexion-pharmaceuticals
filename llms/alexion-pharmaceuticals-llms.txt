@@ -1,0 +1,20 @@
+# Alexion Pharmaceuticals
+
+> Alexion Pharmaceuticals was a global biopharmaceutical company founded in 1992 and headquartered in Boston, Massachusetts, focused on life-transforming therapies for rare diseases. It pioneered complement inhibition therapy (Soliris/eculizumab, Ultomiris/ravulizumab). AstraZeneca acquired Alexion in July 2021 for $39 billion; it now operates as Alexion, AstraZeneca Rare Disease. Alexion publishes no public developer API; its public technical surface is a GitHub organization (alxndgb) of rare-disease research tools.
+
+## Websites
+
+- [Alexion Global Site](https://alexion.com)
+- [AstraZeneca Rare Disease](https://www.astrazeneca.com/our-therapy-areas/rare-disease.html)
+
+## Research Code (GitHub org alxndgb)
+
+- [PrimeKG - Precision Medicine Knowledge Graph](https://github.com/alxndgb/PrimeKG)
+- [UPNA-PPI - Rare Disease Target Discovery](https://github.com/alxndgb/UPNA-PPI)
+- [Genetic Prevalence Estimator](https://github.com/alxndgb/genetic-prevalence-estimator)
+- [Alexion GitHub Organization](https://github.com/alxndgb)
+
+## Notes
+
+- No public REST/GraphQL/gRPC API is published by Alexion.
+- No /.well-known/ discovery documents were found on alexion.com (all 404 as of 2026-06-20).
