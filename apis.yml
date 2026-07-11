@@ -17,6 +17,8 @@ description: >-
   rare disease target discovery systems.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/alexion-pharmaceuticals-domain-security.yml
   - type: Website
     url: https://alexion.com
   - type: Website
